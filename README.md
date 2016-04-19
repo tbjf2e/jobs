@@ -2,6 +2,8 @@
 
 简历发送邮箱：tbjf2e@tongbanjie.com
 
+了解铜板街：https://www.tongbanjie.com/about/intro.html
+
 
 ## HTML5开发工程师
 
